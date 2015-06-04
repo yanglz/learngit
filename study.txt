@@ -1,4 +1,3 @@
 learn git haha
 git is very good
-git is very good
-git is very good
+this the test
